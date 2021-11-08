@@ -10,7 +10,7 @@ localhost port was changed to 8000, and was mapped with the nginx default port o
 
 Terminal commands:</br>
 </br>
-Installation of bash using software repo:</br>
+Installation of docker using software repo:</br>
 -> sudo apt install docker.io</br>
 check the version of docker:</br>
 -> sudo docker --version</br>
